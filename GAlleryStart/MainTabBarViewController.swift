@@ -16,6 +16,8 @@ class MainTabBarViewController: UITabBarController {
         tabBar.tintColor = .black
 
         // Do any additional setup after loading the view.
+        
+        // added text
     }
     
     // test Artyom
